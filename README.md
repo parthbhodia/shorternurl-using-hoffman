@@ -32,8 +32,8 @@ tree.print_code_table()
 
 ## Author
 
-Matthew Emerson
+Parth Bhodia
 
 ## License
 
-Released under MIT License.
+Released under PUBLIC  License.
